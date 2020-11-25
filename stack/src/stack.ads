@@ -1,3 +1,5 @@
+-- Adapted from examples at learn.adacore.com and
+-- John Barnes: High Integrity Ada
 
 package Stack with SPARK_Mode
 is
